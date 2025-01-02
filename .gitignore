@@ -1,0 +1,5 @@
+audio_text_processor.log
+output/
+export_code.py
+.env
+directory_report.md
