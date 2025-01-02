@@ -1,4 +1,4 @@
-# GPT-4O Audio Preview Free
+# GPT-4o Audio Preview Free
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python Version](https://img.shields.io/badge/python-3.9%2B-blue.svg)
@@ -7,7 +7,7 @@
 
 ## Table of Contents
 
-- [GPT-4O Audio Preview Free](#gpt-4o-audio-preview-free)
+- [GPT-4o Audio Preview Free](#gpt-4o-audio-preview-free)
   - [Table of Contents](#table-of-contents)
   - [File Structure and Logic](#file-structure-and-logic)
     - [Detailed File Overview](#detailed-file-overview)
